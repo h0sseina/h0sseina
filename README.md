@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @h0sseina
 - 👀 I’m interested in Crypto
-- 🌱 I’m currently learning Phyton
-- ✨Driving is my hobby
+- 🌱 Artela stars
+- ✨Unite core
 - PC Enginer & Developer
 
 <!---
